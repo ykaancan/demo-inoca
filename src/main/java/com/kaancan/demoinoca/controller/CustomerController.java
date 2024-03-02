@@ -1,6 +1,6 @@
 package com.kaancan.demoinoca.controller;
 
-import com.kaancan.demoinoca.entity.request.AddCustomerRequest;
+import com.kaancan.demoinoca.entity.request.customer.AddCustomerRequest;
 import com.kaancan.demoinoca.service.CustomerService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

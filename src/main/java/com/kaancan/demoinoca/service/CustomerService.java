@@ -2,7 +2,7 @@ package com.kaancan.demoinoca.service;
 
 import com.kaancan.demoinoca.entity.Cart;
 import com.kaancan.demoinoca.entity.Customer;
-import com.kaancan.demoinoca.entity.request.AddCustomerRequest;
+import com.kaancan.demoinoca.entity.request.customer.AddCustomerRequest;
 import com.kaancan.demoinoca.repository.CartRepository;
 import com.kaancan.demoinoca.repository.CustomerRepository;
 import jakarta.transaction.Transactional;
